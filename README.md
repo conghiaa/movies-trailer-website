@@ -3,13 +3,15 @@ You will write server-side code to store a list of your favorite movies, includi
 
 You will then use your code to generate a static web page allowing visitors to browse their movies and watch the trailers.
 
+This project is from [udacity](https://udacity.com).
+
 ## Prerequisite
 - Installed **Python**
 - Installed **Git** (optional)
 
 ## Download
-- if you've installed Git: `git clone ...`
-- otherwise, click download button on the right-top side.
+- if you've installed Git: `git clone https://github.com/conghiaa/movies-trailer-website.git`
+- otherwise, click **download button** on the right-top side.
 
 ## Usage
 ```
