@@ -1,19 +1,20 @@
-## Project Overview
-You will write server-side code to store a list of your favorite movies, including box art imagery and a movie trailer URL.
+## Movie Trailer Website
+ The Movie Trailer Website project consists of server-side code to store a list of movies titles, along with its respective box art imagery and movie trailer website.
 
-You will then use your code to generate a static web page allowing visitors to browse their movies and watch the trailers.
+Here is the screenshot:
+![Website preview](./screenshot.png)
 
-This project is from [udacity](https://udacity.com).
-
-## Prerequisite
-- Installed **Python**
-- Installed **Git** (optional)
 
 ## Download
-- if you've installed Git: `git clone https://github.com/conghiaa/movies-trailer-website.git`
+- if you've installed Git: `git clone git clone https://github.com/conghiaa/movies-trailer-website.git`
 - otherwise, click **download button** on the right-top side.
 
+## Setup
+> Install **Python**
+
 ## Usage
+Open terminal in your computer and type:
 ```
+cd movieTrailierWebsite
 python entertaiment_center.py
 ```
